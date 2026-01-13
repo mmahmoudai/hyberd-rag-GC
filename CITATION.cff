@@ -1,0 +1,41 @@
+# This CITATION.cff file was generated to enable DOI generation via Zenodo
+# YAML 1.2
+---
+cff-version: 1.2.0
+title: "Hybrid Cache-Graph RAG: Enhancing Network Threat Analysis through Structural Reasoning and Memory Optimization"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - given-names: Muhammad
+    family-names: Mahmoud
+    email: m.mahmoud@mau.edu.eg
+    affiliation: "Department of Information Systems, Faculty of Computers and Artificial Intelligence, Matrouh University, Matrouh, Egypt"
+  - given-names: Souham
+    family-names: Meshoul
+    email: Sbmeshoul@pnu.edu.sa
+    affiliation: "Information Technology Department, College of Computer and Information Sciences, Princess Nourah bint Abdulrahman University, P.O. Box 84428, Riyadh 11671, Saudi Arabia"
+  - given-names: Mohamed
+    family-names: Batouche
+    email: Mabatouche@pnu.edu.sa
+    affiliation: "Information Technology Department, College of Computer and Information Sciences, Princess Nourah bint Abdulrahman University, P.O. Box 84428, Riyadh 11671, Saudi Arabia"
+  - given-names: Mohamed
+    family-names: Hammad
+    email: mhammad@psu.edu.sa
+    affiliation: "EIAS Data Science Lab, College of Computer and Information Sciences, Prince Sultan University, Riyadh 11586, Saudi Arabia; Department of Information Technology, Faculty of Computers and Information, Menoufia University, Shibin El Kom 32511, Egypt"
+repository-code: "https://github.com/mmahmoudai/hyberd-rag-GC"
+abstract: >-
+  This project implements and compares four Retrieval Augmented Generation (RAG) 
+  architectures for network security packet analysis: Traditional RAG, Graph RAG, 
+  Cache RAG, and our novel Hybrid Cache-Graph RAG that combines graph-based 
+  knowledge representation with caching benefits for enhanced network threat analysis.
+keywords:
+  - retrieval-augmented-generation
+  - network-security
+  - threat-analysis
+  - knowledge-graphs
+  - machine-learning
+  - cache-optimization
+  - graph-neural-networks
+license: MIT
+version: "1.0.0"
+date-released: "2026-01-13"
