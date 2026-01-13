@@ -5,6 +5,7 @@ cff-version: 1.2.0
 title: "Hybrid Cache-Graph RAG: Enhancing Network Threat Analysis through Structural Reasoning and Memory Optimization"
 message: "If you use this software, please cite it using the metadata from this file."
 type: software
+doi: 10.5281/zenodo.14883166
 authors:
   - given-names: Muhammad
     family-names: Mahmoud
