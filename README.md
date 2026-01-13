@@ -1,5 +1,7 @@
 # Hybrid Cache-Graph RAG: Enhancing Network Threat Analysis through Structural Reasoning and Memory Optimization
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14883166.svg)](https://doi.org/10.5281/zenodo.14883166)
+
 **Authors & Contact:**
 
 - Muhammad Mahmoud  
@@ -27,6 +29,7 @@ If you use this software in your research, please cite it using the following:
   title = {Hybrid Cache-Graph RAG: Enhancing Network Threat Analysis through Structural Reasoning and Memory Optimization},
   year = {2026},
   url = {https://github.com/mmahmoudai/hyberd-rag-GC},
+  doi = {10.5281/zenodo.14883166},
   version = {1.0.0}
 }
 ```
